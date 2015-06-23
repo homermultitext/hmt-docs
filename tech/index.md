@@ -6,7 +6,7 @@ title: Technical documentation
 ## Basic technologies ##
 
 1. bash shell
-    - [installing bash](tech/install-bash)
+    - [installing bash](install-bash)
     - brief introduction to [using bash on a POSIX system](posix)
     - [cheat sheet](http://blog.harrylau.com/2008_06_01_archive.html)
 2. version control
