@@ -1,18 +1,10 @@
 ---
-title: "Homer Multitext project, technical documentation"
+title: "Homer Multitext project: technical documentation"
 layout: page
 ---
 
-
-## Basic technologies ##
-
-1. Bash shell
-    - [installing bash](install-bash)
-    - brief introduction to using bash
-2. version control
-    -  [installing git](install-git).
-3. virtual machines
-    - [installing Vagrant and Virtual Box](install-vagrant-vb)
-    - [installing the HMT virtual machine](install-hmt-vm)
-
+- [Technical documentation](tech)
+- [Preparing a digital scholarly edition](dse)
+- The HMT "[total editing](totaled)" process
+- A few [miscellaneous tips and quick references](tips)
 

@@ -6,13 +6,18 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            hmt-docs
-tagline:          ''
+title:            HMT documentation
+tagline:          'Technical documentation for editors and contributors'
 description:      ''
 baseurl: '/hmt-docs/'
  
 
 links:
-
-
-   
+  - title: Technical documentation
+    url: /tech
+  - title: Digital scholarly edition
+    url: /dse
+  - title: Total editing
+    url: /totaled
+  - title: Tips
+    url: /tips
