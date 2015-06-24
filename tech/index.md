@@ -14,6 +14,8 @@ title: Technical documentation
 3. virtual machines
     - [installing Vagrant and Virtual Box](install-vagrant-vb)
     - [installing the HMT virtual machine](install-hmt-vm)
+    - configuring the HMT virtual machine:
+        - [adding keyboard layouts](http://homermultitext.github.io/vm2015/keyboard/)
 
 
 

@@ -1,0 +1,40 @@
+---
+title: "HMT editors' virtual machine (summer 2015)"
+layout: page
+---
+
+
+
+
+
+`vm2015` defines a virtual machine running Ubuntu 14.04 with a LXDE GUI, and including all the software necessary to edit and validate contributions to the Homer Multitext project. 
+
+
+## Set up
+
+- Initial [installation](install)
+- how to [change or add keyboard layouts](keyboard)
+- how to install Alpheios plugin for Firefox
+- how to change the time zone.  (This can be important, since version control repositories depend on reliable time-stamps!)
+- how to configure your LXTerminal
+
+
+
+## Syncing and updating your work ##
+
+
+- `refresh-hmt.sh`: to refresh/update your HMT tool suite
+
+
+
+## Using the VM ##
+
+
+- switching keyboard layouts
+
+Applications installed in the VM:
+
+- for markup, `xmlcopyeditor`
+- for markdown, `ReText`.  Note "Preview" toggle to edit/view formatted.
+- for text formatting, `pandoc`
+
