@@ -12,7 +12,9 @@ The HMT VM uses Vagrant to define a virtual machine you can run with  VirtualBox
 
 - [Vagrant](https://www.vagrantup.com/)
 - [VirtualBox](https://www.virtualbox.org/)
-- 
+
+
+
 
 ## Getting started ##
 
