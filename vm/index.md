@@ -12,8 +12,9 @@ layout: page
 
 ## Set up
 
-- Initial [installation](install)
+- initial [installation](install)
 - how to [change or add keyboard layouts](keyboard)
+- make [Xml Copy Editor](xmlcopyeditor) safe to use
 - how to install Alpheios plugin for Firefox
 - how to change the time zone.  (This can be important, since version control repositories depend on reliable time-stamps!)
 - how to configure your LXTerminal

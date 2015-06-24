@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Technical documentation
+title: Prerequistie technologies
 ---
 
-## Basic technologies ##
+
+
 
 1. bash shell
     - [installing bash](install-bash)
