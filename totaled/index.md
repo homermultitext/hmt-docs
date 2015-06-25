@@ -8,5 +8,6 @@ layout: page
 - Indexing citable lines of the *Iliad*
 - Indexing scholia
 - Editing the *Iliad*
+    -  [documenting "slurs"](slurs)
 - Editing scholia
 - Validation
