@@ -35,7 +35,7 @@ layout: page
 
 Applications installed in the VM:
 
-- for markup, `xmlcopyeditor`
+- for markup, `Xml Copy Editor`
 - for markdown, `ReText`.  Note "Preview" toggle to edit/view formatted.
 - for text formatting, `pandoc`
 
