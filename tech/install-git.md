@@ -18,15 +18,7 @@ Git is the version control system we use for the HMT project.
 You can install git by going to <https://git-scm.com/>. 
 
 
-## Troublehshooting: if you install the wrong version on  Mac OS X 10.7.5
-
-If you have problems like the description on [this page](http://stackoverflow.com/questions/23448318/git-segmentation-fault-11), you need to uninstall this version of git
-
-- Open the disk-image from which you originally installed Git. It will have a name like "Git Install…".
-- In the terminal, type `cd /Volumes/Git<TAB>` to navigate to that disk-image.
-- Type `./uninstall.sh`, type "yes" when it asked, then your password.
-- Confirm that you have uninstalled Git by typing `which git` in the Terminal. There should be no answer.
-
-Then install following the instructions above.
+## Troubleshooting ##
 
 
+- [removing the wrong version of git from Mac OS X 10.7.5](../troubleshooting/git-os-x-7-5)
