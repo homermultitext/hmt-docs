@@ -13,8 +13,10 @@ baseurl: '/hmt-docs/'
  
 
 links:
-  - title: Technical documentation
+  - title: Basic technologies
     url: /tech
+  - title: The HMT VM
+    url: /vm
   - title: Digital scholarly edition
     url: /dse
   - title: Total editing
