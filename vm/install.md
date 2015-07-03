@@ -1,7 +1,9 @@
 ---
+title:  Installing the HMT VM
 layout: page
-title: Installing the HMT VM
 ---
+
+
 
 
 
@@ -64,7 +66,4 @@ You will want to remember to do this because otherwise the machine will keep run
 ## Trouble shooting ##
 
 
-
-
-
-
+If your host machine goes to sleep before Vagrant finishes the initial installation, it might not be able to resume building with a little hope.  Follow [these steps](../resume-vagrant-up) to complete your install.

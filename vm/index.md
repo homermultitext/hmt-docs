@@ -1,7 +1,8 @@
 ---
-title: "HMT editors' virtual machine (summer 2015)"
+title:  "HMT editors' virtual machine (summer 2015)"
 layout: page
 ---
+
 
 
 
@@ -16,6 +17,7 @@ layout: page
 - how to [change or add keyboard layouts](keyboard)
 - make [Xml Copy Editor](xmlcopyeditor) safe to use
 - how to [install the Alpheios plugin for Firefox](alpheios)
+- how to [set the character encoding in Firefox](ff-char-enc)
 - how to change the time zone.  (This can be important, since version control repositories depend on reliable time-stamps!)
 - how to configure your LXTerminal
 
