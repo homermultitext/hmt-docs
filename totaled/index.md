@@ -4,10 +4,20 @@ layout: page
 ---
 
 
-- Systematic [paleographic observations](paleographic-observations)
-- Indexing citable lines of the *Iliad*
-- Indexing scholia
-- Editing the *Iliad*
+## Initial paleographic observations
+1. Systematic [paleographic observations](paleographic-observations)
+2. Validation
+
+## Total editing ##
+
+
+2. [Indexing citable lines of the *Iliad*](indexingIliad)
+3. [Editing the *Iliad*](editingIliad).  Some special details:
+    - [using Comparetti's facsimile](usingComparetti)
     -  [documenting "slurs"](slurs)
-- Editing scholia
-- Validation
+4.  [Indexing scholia](indexingScholia)
+5.  [Editing scholia](editingScholia)
+
+## Validation ##
+
+
