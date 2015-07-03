@@ -20,7 +20,7 @@ The HMT VM uses Vagrant to define a virtual machine you can run with  VirtualBox
 
 In the course of building the VM, your computer will download a load of material, so make sure you have a good internet connection.  Start by opening a terminal session, and change directories to where you want to install the virtual machine (e.g. to go to your desktop: `cd Desktop`).  
 
-The  github repository for the VM is <https://github.com/homermultitext/vm2015.git>.  Clone it with normal git command:
+The  github repository for the VM is <https://github.com/homermultitext/vm2015.git>.  Clone it with the normal git command:
 
     git clone https://github.com/homermultitext/vm2015.git
 
@@ -28,7 +28,7 @@ Change directories to the newly cloned VM (`cd vm2015`), and from within the `vm
 
     vagrant up
 
-> Your machine must be able to run a 64-bit VM.  Some computers have BIOS settings that prohibit this.  If that happens, you will have to change your BIOS settings to allow the 64-bit VM to run.
+> Your machine must be able to run a 64-bit VM.  Some computers have BIOS settings that prohibit this.  If that happens, you will have to change your BIOS settings to allow the 64-bit VM to run.  Here is [some help](../bios).
 
 
 This is the routine command to start the virtual machine: since this is first time you have run it, vagrant will proceed to build the VM from scratch.
