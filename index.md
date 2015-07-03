@@ -1,5 +1,5 @@
 ---
-title: "Homer Multitext project: technical documentation"
+title: "Homer Multitext project:  documentation"
 layout: page
 ---
 
