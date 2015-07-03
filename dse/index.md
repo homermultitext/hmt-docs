@@ -4,7 +4,6 @@ layout: page
 ---
 
 
-- Modelling a codex
-- Indexing texts and physical surfaces
-- Creating bifolio images
+- [Modelling a codex](codexmodel)
+- [Creating bifolio images](bifolios)
 
