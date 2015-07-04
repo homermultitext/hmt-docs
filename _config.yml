@@ -13,6 +13,9 @@ baseurl: '/hmt-docs/'
  
 
 links:
+  - title: HMT on github
+    url: http://homermultitext.github.io/
+    external: true
   - title: Prerequisite technologies
     url: /tech
   - title: The HMT VM
