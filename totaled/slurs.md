@@ -15,7 +15,7 @@ Under **Slur** goes the urn reference for the slur itself. This urn reference is
 Under **Reading** goes the urn reference for the line of text in the *Iliad* in the Venetus A and the word under which the slur appears.
 
 
-`urn:cts:greekLit:tlg001.tlg0012.msA:11.[line#]@[word],`
+`urn:cts:greekLit:tlg0012.tlg001.msA:11.[line#]@[word],`
 
 Finally, under **Image**, goes the the urn reference for the image citation of the word and its slur. This is contained within quotation marks(""). This urn reference is obtained via the image citation tool.
 
@@ -24,4 +24,4 @@ Each of these columns is separated by a comma.
 An entry typically looks like this:
 
 `Slur,Reading,Image`
-`urn:cite:hmt:venAslur.10_1,urn:cts:greekLit:tlg001.tlg0012.msA:10.1@Παναχαιῶν,"urn:cite:hmt:vaimg.VA126RN-0298@0.4825,0.2141,0.1131,0.0173"`
+`urn:cite:hmt:venAslur.10_1,urn:cts:greekLit:tlg0012.tlg001.msA:10.1@Παναχαιῶν,"urn:cite:hmt:vaimg.VA126RN-0298@0.4825,0.2141,0.1131,0.0173"`
