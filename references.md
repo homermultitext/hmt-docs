@@ -5,7 +5,7 @@ title: Reference material for HMT editorial work
 
 
 
-- Homer Multitext project [guide for editors](http://homermultitext.github.io/hmt-editors-guide/editorial-policies/)
+
 - Authority lists for [personal and place names](https://github.com/homermultitext/hmt-authlists)
 - Issue trackers while validating:
     - [byzantine orthographic forms](https://github.com/homermultitext/byzortho/issues)

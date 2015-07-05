@@ -15,6 +15,7 @@ layout: page
 
 - Foundational work for [a digital scholarly edition](dse)
 - The HMT "[total editing](totaled)" process
+- HMT project [guide for editors](http://homermultitext.github.io/hmt-editors-guide/editorial-policies/)
 
 ## Tips and references ##
 
