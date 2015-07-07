@@ -15,6 +15,7 @@ layout: page
 
 - initial [installation](install)
 - how to [change or add keyboard layouts](keyboard)
+- configure [github settings in your VM](config-github)
 - make [Xml Copy Editor](xmlcopyeditor) safe to use
 - how to [install the Alpheios plugin for Firefox](alpheios)
 - how to [set the character encoding in Firefox](ff-char-enc)
