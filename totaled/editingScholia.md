@@ -10,6 +10,9 @@ layout: page
   - [personal name authority list](https://github.com/homermultitext/hmt-authlists/blob/master/data/hmtnames.csv)
   - [place name authority list](https://github.com/homermultitext/hmt-authlists/blob/master/data/hmtplaces.csv)
   - an edition of the *Iliad*
+  - authority lists for CTS `greekLit` namespace: 
+      - [works](https://github.com/chs-tg/greekLit/blob/master/collections/greekLit-works.csv)
+      - [text groups](https://github.com/chs-tg/greekLit/blob/master/collections/greekLit-groups.csv)
   - a Greek dictionary or parser
   - [Editors' Guide](http://homermultitext.github.io/hmt-editors-guide/)
   
