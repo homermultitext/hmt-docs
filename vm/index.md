@@ -41,3 +41,9 @@ Using applications already installed in the VM:
 - for markdown, `ReText`.  Note "Preview" toggle to edit/view formatted.
 - for text formatting, `pandoc`
 
+
+
+## Troubleshooting ##
+
+
+- How to [fix your files if you accidentally insert the BOM](bom)
