@@ -21,3 +21,4 @@ layout: page
 ## Validation ##
 
 
+Guide to [validating editorial work](validation)
