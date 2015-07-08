@@ -6,7 +6,7 @@ layout: page
 
 1. Useful items to have open:
   - Erbse (if you also have the print edition, this is useful because it is the only place his apparatus criticus is preserved)
-  - Dindorff (available [here](http://www.homermultitext.org/resources.html) Volume 1 contains books 1-12, Volume 2 contains books 13-24 and also contains an appendix with the interlinear scholia)
+  - Dindorf (available [here](http://www.homermultitext.org/resources.html) Volume 1 contains books 1-12, Volume 2 contains books 13-24 and also contains an appendix with the interlinear scholia)
   - [personal name authority list](https://github.com/homermultitext/hmt-authlists/blob/master/data/hmtnames.csv)
   - [place name authority list](https://github.com/homermultitext/hmt-authlists/blob/master/data/hmtplaces.csv)
   - an edition of the *Iliad*
