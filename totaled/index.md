@@ -6,7 +6,7 @@ layout: page
 
 ## Initial paleographic observations
 1. Systematic [paleographic observations](paleographic-observations)
-2. Validation
+2. [Validating paleographic observations](paleographic-validation)
 
 ## Total editing ##
 
