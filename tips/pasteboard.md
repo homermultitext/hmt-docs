@@ -12,8 +12,8 @@ Unicode "two asterisks aligned vertically" ⁑ (= \u2051)
 
 "Two-dot" punctuation ⁚
 
+We use several Unicode combining characters for accents, etc., that modify a preceding character to form a single composite. We will gradually ad a list of those here for editors who cannot easily enter them from their keyboard layout.
 
-We use several Unicode combining characters for accents, etc., that modify a preceding to character to form a single composite.  We will gradually add a list of those here for editors who cannot easily use enter those from their keyboard layout.
 
 Unicode diaeresis   ¨ (= \u00A8)
 
