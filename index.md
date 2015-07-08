@@ -20,7 +20,7 @@ layout: page
 ## Tips and references ##
 
 
-- A few [miscellaneous tips technological tips](tips)
+- A few [miscellaneous technological tips](tips)
 - [Useful references](references) for HMT editors
 - [FAQ](faq)
 
