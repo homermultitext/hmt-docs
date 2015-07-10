@@ -11,6 +11,6 @@ Woops! You edited a file with XML Copy Editor, but missed this note about [how t
 The fix is easy:
 
 1. `cd` to the directory with your edited file (something like `cd /vagrant/YOUR_REPOS/editions/Iliad` or `cd /vagrant/YOUR_REPOS/editions/scholia`).
-2. Fix the file with this command `bomstrip FILE_NAME` (where `FILE_NAME` might be something like `VenetusA-Iliad.xml` or `MainScholia.xml`).
+2. Fix the file with this command `bomstrip-files FILE_NAME` (where `FILE_NAME` might be something like `VenetusA-Iliad.xml` or `MainScholia.xml`).
 3. Make sure you check the configuration of XML Copy Editor following [these instructions](../xmlcopyeditor).
 
