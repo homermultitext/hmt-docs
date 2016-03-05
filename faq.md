@@ -20,14 +20,12 @@ layout: page
 
 >**Q**:  What are text group and work values for scholia documents in the Venetus A?
 
-**A**: 
+**A**:
 
 
-| Text | URN for work |  
-|  ------	| ------	|  
-| Main scholia | `urn:cts:greekLit:tlg5026.msA` |  
-| Intermarginal scholia | `urn:cts:greekLit:tlg5026.msAim` |  
-| Interior scholia | `urn:cts:greekLit:tlg5026.msAint` |  
-| Exterior scholia | `urn:cts:greekLit:tlg5026.msAext` |  
-| Interlinear scholia | `urn:cts:greekLit:tlg5026.msAil` |  
-
+| **Text** | **URN for work** |  
+| Main scholia | `urn:cts:greekLit:tlg5026.msA` |
+| Intermarginal scholia | `urn:cts:greekLit:tlg5026.msAim` |
+| Interior scholia | `urn:cts:greekLit:tlg5026.msAint` |
+| Exterior scholia | `urn:cts:greekLit:tlg5026.msAext` |
+| Interlinear scholia | `urn:cts:greekLit:tlg5026.msAil` |

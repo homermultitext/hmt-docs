@@ -1,8 +1,6 @@
 # Dependencies
-markdown:         redcarpet
-redcarpet:
- extensions: ["fenced_code_blocks", "autolink", "tables"]
-pygments:         true
+markdown:         kramdown
+
 
 # Permalinks
 permalink:        pretty
@@ -12,7 +10,7 @@ title:            HMT documentation
 tagline:          'Technical documentation for editors and contributors'
 description:      ''
 baseurl: '/hmt-docs/'
- 
+
 
 links:
   - title: HMT on github
