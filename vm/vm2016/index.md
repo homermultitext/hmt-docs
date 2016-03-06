@@ -34,7 +34,7 @@ It runs [Elementary OS](https://elementary.io/) 0.3, and uses the `kanōnes` sys
 ## Using the VM ##
 
 
-- how to type Greek
+- [how to type polytonic Greek](greek)
 
 Using applications already installed in the VM:
 
