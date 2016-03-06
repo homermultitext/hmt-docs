@@ -37,20 +37,38 @@ Find something to occupy yourself for awhile, but don't let your computer go to 
 
 A new window with a login screen will eventually pop up.  Don't log in until the entire build process has completed in your original terminal session on your host computer, however.
 
-When the build is complete, log in to the VM from the new window. The username and password are both `vagrant`.  When you have logged in, the desktop should look like this:
+When the build is complete, log in to the VM from the new window. The username and password are both `vagrant`.  When you have logged in, your desktop should include a dock that looks like this:
 
 
-![Bare desktop](../imgs/baredt.jpg)
+![dock](../imgs/yourdock.png)
+
+The items on the dock are (from left to right):
+
+1. a link to the shared folder where you will keep all your work
+2. a terminal running the bash shell
+3. Atom, a text editor you can use for writing markdown and other text
+4. the Firefox web browser
+5. XmlCopyEditor, a validating XML editor
+6. System Settings
 
 At this point, if you'd like to install a keyboard other than English (US), follow [these instructions](../keyboard).
+
+To be sure all the automatically installed configurations have taken effect, logout of your account, and then log back in.  You can logout from the "power sign" menu at the time right of your screen:
+
+
+![logout](../imgs/logout.png)
+
 
 ## Installing the HMT editorial system ##
 
 
-From the start menu at the bottom left of the screen, you can open a terminal running a bash shell.  Choose LXTerminal from the Accessories menu.
 
 
-![LX Terminal](../imgs/lxterm.png)
+
+Open a terminal to run your familiar bash shell.
+
+
+
 
 To install the full suite of tools for HMT project editing, run
 
@@ -67,4 +85,4 @@ You will want to remember to do this because otherwise the machine will keep run
 ## Trouble shooting ##
 
 
-If your host machine goes to sleep before Vagrant finishes the initial installation, it might not be able to resume building with a little hope.  Follow [these steps](../resume-vagrant-up) to complete your install.
+If your host machine goes to sleep before Vagrant finishes the initial installation, it might not be able to resume building without a little help.  Follow [these steps](../resume-vagrant-up) to complete your install.
