@@ -22,4 +22,4 @@ In addition, it's a good idea to define a preferred text editor, in case git nee
 
     git config --global core.editor "atom --wait"
 
-As an aside, atom runs on pretty much any operating system.  If you'd to install it on your own computer as well, you can download it from <https://atom.io/>.
+As an aside, atom runs on pretty much any operating system.  If you'd like to install it on your own computer as well, you can download it from <https://atom.io/>.
