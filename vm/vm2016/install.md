@@ -20,11 +20,11 @@ The HMT VM uses Vagrant to define a virtual machine you can run with  VirtualBox
 
 In the course of building the VM, your computer will download a load of material, so make sure you have a good internet connection.  Start by opening a terminal session, and change directories to where you want to install the virtual machine (e.g. to go to your desktop: `cd Desktop`).
 
-The  github repository for the VM is <https://github.com/homermultitext/vm2015.git>.  Clone it with the normal git command:
+The  github repository for the VM is <https://github.com/homermultitext/editors-vm.git>.  Clone it with the normal git command:
 
-    git clone https://github.com/homermultitext/vm2015.git
+    git clone https://github.com/homermultitext/editors-vm.git
 
-Change directories to the newly cloned VM (`cd vm2015`), and from within the `vm2015` directory, run
+Change directories to the newly cloned VM (`cd editors-vm`), and from within the `editors-vm` directory, run
 
     vagrant up
 
