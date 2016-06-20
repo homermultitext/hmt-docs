@@ -4,29 +4,18 @@ layout: page
 ---
 
 
-## Adding other keyboard input methods ##
+Your newly installed VM will have a single English (US) keyboard layout.  To add a polytonic Greek keyboard, first open System Settings (the far-right icon on your dock).  Open "Keyboard", and choose the "Layout" tab.  Click the "+" sign at the lower left to add a new keyboard layout.  For Greek be sure that you set the language to Greek, and the layout to polytonic, like this:
+
+![choose polytonic](../imgs/configure-polytonic-elementary.png)
+
+At the top right corner of your window, you should now see a menu item with a list of installed keyboard layouts, like this:
 
 
-The ribbon at the bottom of the Desktop screen has a control panel for changing keyboard layout (below, labelled "US" but partially obscured by the popup menu).  Command-click or right-click on it get the popup menu illustrated below, and choose *"Keyboad Layout Handler" Settings*, as illustrated
-
-![popupmenu]
 
 
+![multiple keyboards installed](../imgs/multikeyboards.png)
 
-You will see a dialog box like the one below listing any installed keyboard layouts.  Make that "Keep system layouts" is unchecked, then click on the *Add* button, and select from the list.
-![panel]
-
-[popupmenu]: ../imgs/khandler.png
+You can cycle through your installed keyboards with the keyboard shortcut `alt-space`.
 
 
-[panel]: ../imgs/khpanel.png
-
-
-You can arrange multiple layouts in any order you like.  
-
-
-## Polytonic Greek keyboard ##
-
-
-`vm2015` includes  a polytonic Greek keyboard (available with documentation [here](http://www.frame-poythress.org/keyboard-entry-of-polytonic-greek-and-biblical-hebrew-in-gnulinux-2014/)).  For a summary of key mappings, you can use [this chart](http://49ft7fdv9kp7kqhm12yk1d17.wpengine.netdna-cdn.com/wp-content/uploads/2014/07/2007KeyboardGreek.pdf).  Note that in this system, you type accents and breathings *before* the vowel they fall on.
-
+Repeat this to add any other keyboard layouts you would like to use.

@@ -1,19 +1,16 @@
 ---
-title:  "HMT editors' virtual machine"
+title:  "HMT VM: development version"
 layout: page
 ---
 
-
-
 The HMT project VM for editors is a virtual machine including all the software necessary to edit and validate contributions to the Homer Multitext project.
 
+This page describes the VM currently in use in the summer of 2016.
 
 
-The current VM (available from the `editors-vm` repository) has been used since the summer of 2015. It runs Ubuntu 14.04 with a LXDE GUI, and uses the `morpheus` parsing system to validate the morphology of Greek text.
+It runs [Elementary OS](https://elementary.io/) 0.3, and uses the `kanōnes` system for parsing and validating the morphology of Greek text.
 
-A new version is currently being developed in the `summer2016` branch of the same repository, and will be the standard VM for the project beginning in the summer of 2016.    It runs [Elementary OS](https://elementary.io/) 0.3, and uses the `Kanōnes` system for parsing and validating the morphology of Greek text.
 
-Documentation linked here is for the current release version (i.e., the summer 2015 standard).  For preliminary documentation of the development version, please [follow this link](vm2016).
 
 ## Set up and configuration
 
@@ -23,8 +20,7 @@ Documentation linked here is for the current release version (i.e., the summer 2
 - make [Xml Copy Editor](xmlcopyeditor) safe to use
 - how to [install the Alpheios plugin for Firefox](alpheios)
 - how to [set the character encoding in Firefox](ff-char-enc)
-- how to change the time zone.  (This can be important, since version control repositories depend on reliable time-stamps!)
-- how to configure your LXTerminal
+
 
 
 
@@ -38,13 +34,13 @@ Documentation linked here is for the current release version (i.e., the summer 2
 ## Using the VM ##
 
 
-- how to type Greek
+- [how to type polytonic Greek](greek)
 
 Using applications already installed in the VM:
 
 - for markup, `Xml Copy Editor`
-- for markdown, `ReText`.  Note "Preview" toggle to edit/view formatted.
-- for text formatting, `pandoc`
+- for markdown, `Atom` (<https://atom.io/>).  To display a formatted view of your markdown document, you can use the Markdown Preview package (`Packages` menu, `Markdown Preview`, or from the keyboard `ctl-shift-M`)
+- for text formatting, `pandoc` ([pandoc.org](http://pandoc.org/))
 
 
 
