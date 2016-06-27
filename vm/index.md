@@ -1,5 +1,5 @@
 ---
-title:  "HMT VM: development version"
+title:  "HMT VM (summer, 2016, version)"
 layout: page
 ---
 
