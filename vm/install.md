@@ -63,9 +63,13 @@ To be sure all the automatically installed configurations have taken effect, log
 
 
 
+First, we'll configure your editor (Atom) to help you with the different kinds of content we edit (XML files, delimited-text files, texts in markdown, and even scripts in Scala).
 
 
-Open a terminal to run your familiar bash shell.
+
+Open a terminal to run your familiar bash shell, and run
+
+    atom-config.sh
 
 
 
