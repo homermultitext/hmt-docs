@@ -18,4 +18,3 @@ layout: page
 
 - A few [miscellaneous technological tips](tips)
 - [Useful references](references) for HMT editors
-- [FAQ](faq)
