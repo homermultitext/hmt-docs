@@ -51,8 +51,6 @@ The items on the dock are (from left to right):
 3.  Atom, a text editor you can use for writing markdown and other text
 
 
-
-
 At this point, if you'd like to install a Greek keyboard layout or additional keyboard layouts, follow [these instructions](../keyboard).
 
 To be sure all the automatically installed configurations have taken effect, logout of your account, and then log back in.  You can logout from the "power sign" menu at the time right of your screen:
