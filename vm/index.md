@@ -34,5 +34,3 @@ It runs [Elementary OS](https://elementary.io/) 0.3.
 
 
 - [how to type polytonic Greek](greek)
-
-Using applications already installed in the VM:
