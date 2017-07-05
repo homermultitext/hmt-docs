@@ -9,9 +9,9 @@ layout: page
 
 There have been many operating systems to run on all kinds of computing devices over the past half century, but none has been more widely used than UNIX.  Astonishingly, while originally designed in the late 1960s, UNIX is still in use today, and on more machines than ever before:  every iPhone and iPad runs a version of UNIX, for example.
 
-The fundamental UNIX interfaces have become so important that the IEEE has defined the POSIX standard to specify what essential interfaces constitute a fully POSIX-compliant operating system.  In addition to various UNIX distributions, this includes most Linux distributions.  When you become familiar with a standard command-line shell for POSIX systems, therefore, you are learning a system you can use identically on most of the internet's web servers, a personal Macbook,  or a an Android phone.  
+The fundamental UNIX interfaces have become so important that the IEEE has defined the POSIX standard to specify what essential interfaces constitute a fully POSIX-compliant operating system.  In addition to various UNIX distributions, this includes most Linux distributions.  When you become familiar with a standard command-line shell for POSIX systems, therefore, you are learning a system you can use identically on most of the internet's web servers, a personal Macbook,  or a an Android phone.
 
-![bash shell on Android phone][2].  
+![bash shell on Android phone][2].
 
 Even more remarkably, most of the shell commands you regularly use are identical to what you could have  entered on a teletype  PDP-11.
 
@@ -48,8 +48,8 @@ To navigate your way through your files and directories using the command line, 
 
 Figure out how to use these commands to:
 
-- Find out where your home directory is on the virtual machine (that is, what is the full path to it?).  When you log in or connect to a remote machine with `ssh`, your working directory is initially your home directory.  
-- Find out what files are in the `sampledata`  directory.  
+- Find out where your home directory is on the virtual machine (that is, what is the full path to it?).  When you log in or connect to a remote machine with `ssh`, your working directory is initially your home directory.
+- Find out what files are in the `sampledata`  directory.
 - Change your working directory to the sampledata directory, then change back to your home directory.
 
 Two useful additional commands you can use to navigate your file system are `pushd` and `popd`.  Repeat the last change of directories and return to your home directory using them.
@@ -141,14 +141,16 @@ Try using combinations of commands you've learned to answer each of the followin
 
 `bash` also keeps a history of commands you have used recently, and provides a number of commands and shortcuts that take advantage of this.  You can:
 
-- use the `history` command to see what you have done
-- on most terminals, use  up and down arrows to back or forward through your command history
-- repeat a command using the exclamation point.  `!!` repeats the previous command;  `!` before a number repeats that numbered command (using the number seen in `history`).
--  substitute part of the preceding command string using the caret (^).  If you mistakenly entered `hisstory`, you could correct that by entering `^ss^s`, that is, "replace 'ss' with 's'".
+-   use the `history` command to see what you have done
+-   on most terminals, use  up and down arrows to back or forward through your command history
+-   repeat a command using the exclamation point.  `!!` repeats the previous command;  `!` before a number repeats that numbered command (using the number seen in `history`).
+-   substitute part of the preceding command string using the caret (^).  If you mistakenly entered `hisstory`, you could correct that by entering `^ss^s`, that is, "replace 'ss' with 's'".
 
 
 
-[1]:  http://shot.holycross.edu/ken-and-den.jpg
+[1onine]:  http://shot.holycross.edu/ken-and-den.jpg
+
+[1]: ../imgs/ken-and-den.jpg
 
 
 
