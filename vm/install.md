@@ -44,12 +44,14 @@ When the build is complete, log in to the VM from the new window. The username a
 
 The items on the dock are (from left to right):
 
-1. a link to the shared folder where you will keep all your work
-2. a terminal running the bash shell
-3. Atom, a text editor you can use for writing markdown and other text
-4. the Firefox web browser
-5. XmlCopyEditor, a validating XML editor
-6. System Settings
+6.  System Settings
+7.  the Firefox web browser
+8.  a terminal running the bash shell
+1.  a link to the shared folder where you will keep all your work
+3.  Atom, a text editor you can use for writing markdown and other text
+
+
+
 
 At this point, if you'd like to install a Greek keyboard layout or additional keyboard layouts, follow [these instructions](../keyboard).
 
