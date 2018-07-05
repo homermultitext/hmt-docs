@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            HMT documentation
 tagline:          'Technical documentation for editors and contributors'
-description:      ''
+description:      'Evolving technical documentation for editors and contributors to the Homer Multitext project'
 baseurl: '/hmt-docs/'
 
 
@@ -18,11 +18,12 @@ links:
     external: true
   - title: Prerequisite technologies
     url: /tech
-  - title: The HMT VM
-    url: /vm
   - title: Foundational work
     url: /dse
   - title: '"Total editing"'
     url: /totaled
   - title: Tips
     url: /tips
+  - title: Github source for this site
+    url: http://homermultitext.github.io/hmt-docs
+    external: true
