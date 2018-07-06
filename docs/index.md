@@ -4,17 +4,12 @@ layout: page
 ---
 
 
-## Technologies ##
+## Technologies
+
+- [Technologies we use](tech)
 
 
-- [Prerequisite technologies](tech)
-- [The HMT virtual machine for editors](vm)
+## References, cheatsheets, tips
 
-
-
-
-## Tips and references ##
-
-
-- A few [miscellaneous technological tips](tips)
-- [Useful references](references) for HMT editors
+-   [Key references](references)
+-   [Other tips](tips)
