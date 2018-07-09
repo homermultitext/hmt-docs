@@ -4,10 +4,6 @@ title: A few tips
 ---
 
 
-## Decoding scholarly publications ##
-
-
-- A brief [key to reading typographic conventions in Erbse](erbse-key), *Scholia Vetera*
 
 
 ## Writing with Greek

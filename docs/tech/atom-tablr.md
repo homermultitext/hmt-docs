@@ -5,7 +5,7 @@ title: Setting up Atom for editing tables
 
 Once you have [installed Atom](../atom), you need to install a configuration file for the `tablr` plugin.
 
--   Download the file `atom-tablr-conf.cson` [here](https://raw.githubusercontent.com/homermultitext/editors-vm/summer2017/system/atom-tablr-conf.cson> ).
+-   Download the file `atom-tablr-conf.cson` [here](https://raw.githubusercontent.com/homermultitext/editors-vm/summer2017/system/atom-tablr-conf.cson).
 -   Find it on your computer.  (Note that some browsers might "helpfully" rename the file by adding an additional extension such as `.txt`  Why?)
 
 
