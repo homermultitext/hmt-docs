@@ -45,7 +45,6 @@ When the build is complete, log in to the VM from the new window. The username a
 The items on the dock are (from left to right):
 
 6.  System Settings
-7.  the Firefox web browser
 8.  a terminal running the bash shell
 1.  a link to the shared folder where you will keep all your work
 3.  Atom, a text editor you can use for writing markdown and other text
@@ -72,11 +71,6 @@ Open a terminal to run your familiar bash shell, and run
     atom-config.sh
 
 
-
-
-To install the full suite of tools for HMT project editing, run
-
-    refresh-hmt.sh
 
 
 When you are done , you can shut down the virtual machine from your original terminal session on your host computer by running
