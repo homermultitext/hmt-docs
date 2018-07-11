@@ -19,3 +19,11 @@ title: Prerequisite technologies
     -   [setting up Atom for editing tables](atom-tablr)
 5.  a build tool and scripting language
     -   [installing sbt](sbt)
+
+
+
+## An alternative
+
+For those who cannot or prefer not to install the software needed to edit HMT material, we offer the option of using a virtual machine with all the above items preinstalled.
+
+-   [installing the HMT VM](install-hmt-vm)
